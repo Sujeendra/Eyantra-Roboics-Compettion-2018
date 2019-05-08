@@ -1,4 +1,4 @@
-# Eyantra-Roboics-Compettion-2018
+# Eyantra-Roboics-Competition-2018
 Problem Statement
 
 Birds take care of their young when they hatch. Newly born chicks depend on their parents to bring them food and require feeding every half-an-hour. Knowing this, we can now appreciate the diligence of the parent birds. They go from their nest to a food source, carry it in their beaks and go back to their nest to feed their young. In fact, many birds that eat seeds, will switch to insects during the breeding season. Parents eat smaller insects themselves and take the larger ones back to the nest for the babies. This allows them to carry more food less frequently to their ever-hungry offspring. This process continues at least until the baby birds’ feathers and muscles have developed sufficiently for flight. 
